@@ -1,9 +1,9 @@
-## 📊 CrowdFunding-Project---Data-Analyst-
+## CrowdFunding-Project---Data-Analyst-
 The crowdfunding project analyzed campaign data to find key success factors. Using **Excel, Power BI, Tableau, and SQL**, data was cleaned, standardized, and visualized. It revealed trends by **category, location, and time**, showing that certain goals and periods lead to higher success in crowdfunding campaigns.
 
 ---
 
-## 🧩 Objective / Goal  
+## Objective / Goal  
 - Identify the main factors affecting crowdfunding success rates.  
 - To identify success patterns in crowdfunding campaigns based on **goal range, category, location, and backer engagement**.
 - Analyze campaign performance by **category, goal range, and time period**.  
@@ -12,7 +12,7 @@ The crowdfunding project analyzed campaign data to find key success factors. Usi
 
 ---
 
-## 🧠 Steps Taken  
+## Steps Taken  
 1. Collected and explored raw crowdfunding data.  
 2. Converted epoch timestamps into readable date formats.  
 3. Built a **calendar table** with fiscal and calendar attributes.  
@@ -26,7 +26,7 @@ The crowdfunding project analyzed campaign data to find key success factors. Usi
 
 ---
 
-## 🧰 Tools & Technologies Used  
+## Tools & Technologies Used  
 | Tool | Purpose |
 |------|----------|
 | **Excel** | Data cleaning, preparation, basic analysis & dashboard creation |
@@ -36,7 +36,7 @@ The crowdfunding project analyzed campaign data to find key success factors. Usi
 
 ---
 
-## 📈 Key Insights  
+## Key Insights  
 - Campaigns with **moderate goal amounts** achieved higher success rates.  
 - Categories like **Design**, **Games**, and **Technology** performed best.  
 - **Seasonal trends** and **fiscal quarters** influenced campaign success.  
@@ -45,9 +45,9 @@ The crowdfunding project analyzed campaign data to find key success factors. Usi
 
 ---
 
-🧰 Tools Used: Excel | Tableau | Power BI
+## Tools Used: Excel | Tableau | Power BI
 
-📊 Key Metrics:
+**Key Metrics:**
 
 Total Projects: **365.9K**
 
@@ -59,7 +59,7 @@ Avg. Duration (Successful): **80.43 days**
 
 Overall Success Rate: **38.35%**
 
-💡 Key Insights:
+**Key Insights:**
 
 Successful Projects: **140.3K** (~38.3%) achieved their funding goals — showing strong community support.
 
@@ -67,7 +67,7 @@ Failed Projects: **188.2K** (~51.4%) didn’t meet their targets, forming the ma
 
 Canceled Projects: **32.5K** (~8.9%) were canceled, likely due to low engagement or unrealistic goals.
 
-📅 Trends by Time (2015):
+**Trends by Time (2015):**
 
 Peak Month: July saw the highest activity **(10,425 projects)**.
 
@@ -75,7 +75,7 @@ Best Quarter: Q3 (July–Sept) showed the strongest performance.
 
 Lowest Month: December **(3,026)** — fewer launches during holidays.
 
-🎨 Projects by Category:
+**Projects by Category:**
 
 Product Design: **22,277** projects — top-performing category.
 
@@ -83,7 +83,7 @@ Tabletop Games **(15.6K)** and Music **(15.1K)** follow with strong engagement.
 
 Documentary and Video Games also maintain steady support.
 
-🌍 Projects by Location:
+**Projects by Location:**
 
 United States: **0.27M** projects — global leader.
 
@@ -91,13 +91,13 @@ Great Britain: **0.03M** projects, ranking second.
 
 Canada, Australia, Germany: smaller but growing participation.
 
-💰 Top Projects:
+**Top Projects:**
 
 Pebble Time Smartwatch: Raised **$20.3M**.
 
 Exploding Kittens: Most backers **(219K)**.
 
-📊 Success Rate by Goal Range:
+**Success Rate by Goal Range:**
 
 <$5,000 goals: Highest success rate **(47.2%)**.
 
@@ -107,6 +107,6 @@ $5K–$20K: Moderate success **(35.9%)**.
 
 ---
 
-## 🚀 Results & Conclusion  
+## Results & Conclusion  
 - The project successfully highlighted the major drivers of crowdfunding success.  
 - By analyzing data across categories, time periods, and goal ranges it provided actionable insights to improve future campaign outcomes.  
